@@ -1,0 +1,9 @@
+Smart Resume Skill Analyzer & ATS Score Checker (Python, Streamlit, NLP/Regex, Pandas)
+
+Built a production-style resume intelligence tool that parses PDF resumes, detects technical skills, and evaluates ATS readiness with a weighted 0-100 scoring model. Implemented modular architecture (`resume_reader.py`, `skill_analyzer.py`, `app.py`) with robust PDF extraction, regex-based keyword intelligence, and dynamic missing-skill recommendations aligned to target job roles. Designed an interactive Streamlit dashboard with skill frequency analytics, percentage coverage metrics, ATS score breakdown, and keyword highlighting for actionable resume optimization.
+
+Impact highlights:
+- Automated extraction and analysis of resume content from PDF uploads
+- Delivered transparent ATS-style scoring based on skill coverage, resume length, and keyword density
+- Added dynamic suggestion engine for missing skills and profile improvement
+- Built portfolio-grade UI with charts, score indicators, and interactive insights

@@ -1,0 +1,19 @@
+🚀 Project Spotlight: Smart Resume Skill Analyzer & ATS Score Checker
+
+I built an end-to-end Python project that helps candidates evaluate how ATS-friendly their resumes are before applying to jobs.
+
+What it does:
+- Uploads and parses resumes in PDF format
+- Detects role-specific technical skills using regex + keyword intelligence
+- Calculates an ATS-style score (0-100) using skill coverage, resume length, and keyword density
+- Flags missing skills and generates dynamic suggestions for improvement
+- Visualizes skill frequency and score components with interactive charts
+- Highlights matched keywords directly in the resume text
+
+Tech Stack:
+Python · Streamlit · Pandas · pdfplumber · PyPDF2 · Regex (`re`) · Matplotlib
+
+Why this project matters:
+It combines data analysis, text processing, and product-style UI design into a practical tool that solves a real hiring workflow problem.
+
+#Python #DataAnalytics #Streamlit #MachineLearning #ATS #ResumeOptimization #PortfolioProject #DataScience #NLP
